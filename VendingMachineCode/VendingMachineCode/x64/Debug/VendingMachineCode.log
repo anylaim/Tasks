@@ -1,0 +1,42 @@
+﻿  mian.cpp
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,9): error C3646: getSnackName: неизвестный спецификатор переопределения
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,21): error C2059: синтаксическая ошибка: (
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,29): error C2238: непредвиденные лексемы перед ";"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(18,20): error C2061: синтаксическая ошибка: идентификатор "string"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(21,9): error C3646: name: неизвестный спецификатор переопределения
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(21,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  Snack.cpp
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,9): error C3646: getSnackName: неизвестный спецификатор переопределения
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,21): error C2059: синтаксическая ошибка: (
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,29): error C2238: непредвиденные лексемы перед ";"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(18,20): error C2061: синтаксическая ошибка: идентификатор "string"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(21,9): error C3646: name: неизвестный спецификатор переопределения
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(21,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.cpp(9,8): error C2039: "name": не является членом "Snack".
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(5,7): message : см. объявление "Snack"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.cpp(17,8): error C2039: "name": не является членом "Snack".
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(5,7): message : см. объявление "Snack"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.cpp(26,8): error C2039: "name": не является членом "Snack".
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(5,7): message : см. объявление "Snack"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.cpp(40,15): error C2039: "getSnackName": не является членом "Snack".
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(5,7): message : см. объявление "Snack"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.cpp(40,15): error C2270: getSnackName: модификаторы недопустимы для функций, не являющихся членами
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.cpp(42,9): error C2065: name: необъявленный идентификатор
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.cpp(59,13): error C2511: void Snack::setSnackName(std::string): перегруженная функция-член не найдена в "Snack"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(5,7): message : см. объявление "Snack"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.cpp(61,2): error C2065: name: необъявленный идентификатор
+  SnackSlot.cpp
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,9): error C3646: getSnackName: неизвестный спецификатор переопределения
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,21): error C2059: синтаксическая ошибка: (
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,29): error C2238: непредвиденные лексемы перед ";"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(18,20): error C2061: синтаксическая ошибка: идентификатор "string"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(21,9): error C3646: name: неизвестный спецификатор переопределения
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(21,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  VendingMachine.cpp
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,9): error C3646: getSnackName: неизвестный спецификатор переопределения
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,21): error C2059: синтаксическая ошибка: (
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(16,29): error C2238: непредвиденные лексемы перед ";"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(18,20): error C2061: синтаксическая ошибка: идентификатор "string"
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(21,9): error C3646: name: неизвестный спецификатор переопределения
+F:\Coding\C++\VendingMachineCode\VendingMachineCode\Snack.h(21,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  Создание кода...
