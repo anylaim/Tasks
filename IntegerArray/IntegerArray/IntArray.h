@@ -31,7 +31,7 @@ public:
 
     IntArray(int length);
 
-    ~IntArray();
+    ~IntArray() noexcept;
 
     IntArray(const IntArray& a);
 
